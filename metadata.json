@@ -1,0 +1,6 @@
+{
+  "name": "Noobit Expense Tracker",
+  "description": "ระบบจัดการรายรับ-รายจ่าย สรุปผลรายเดือน พร้อมกราฟสถิติ บันทึกข้อมูลบน Firebase และล็อกอินผ่าน Google/Gmail",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
